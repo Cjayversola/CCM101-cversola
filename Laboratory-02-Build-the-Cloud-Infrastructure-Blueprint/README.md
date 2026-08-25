@@ -56,3 +56,18 @@ df -h
 findmnt
 hostname -I
 ip addr show
+```
+
+These commands were used to identify the server's operating system, kernel, CPU, memory, storage, mounted filesystems, hostname, and network configuration.
+
+## Skills Learned
+
+During this laboratory activity, I learned how to inspect a Linux cloud environment using command-line tools. I also learned how compute, storage, networking, and operating systems work together in cloud infrastructure.
+
+I improved my Markdown documentation skills and learned how to organize technical evidence and project files in GitHub. I also gained experience comparing infrastructure services from different cloud providers and creating a basic cloud architecture diagram.
+
+## Challenges Encountered
+
+One challenge was understanding the different Linux commands and interpreting their output. I also had to organize the screenshots and documentation correctly inside the GitHub laboratory folder.
+
+Another challenge was understanding the equivalent infrastructure services offered by AWS, Microsoft Azure, and Google Cloud. Researching their official documentation helped me understand how different providers offer similar cloud infrastructure capabilities under different service names.
